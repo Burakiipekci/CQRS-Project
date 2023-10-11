@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "XbardamEptx7tNOIuwmhVebT8DbdIMel3nVopNVCumNn98GO6I5ss1Gfl3PAQ2SDsfzKaIh9qZol6z3V3YqFeA==",
+  "dgSpecHash": "tI6kDqMic1T4iSyHxJpwVnC/khvMJH55GCdVeWMgSzJtbkIJiPtcX/en3ru0ivZ3m7Wkrjd79KgvUb7ozElWMg==",
   "success": true,
   "projectFilePath": "C:\\Users\\burak.ipekci\\Documents\\GitHub\\CQRS-Project\\src\\rentACar\\RentACar\\Application\\Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\burak.ipekci\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\burak.ipekci\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\burak.ipekci\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
