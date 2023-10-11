@@ -1,0 +1,12 @@
+C:\Users\burak.ipekci\Documents\GitHub\CQRS-Project\src\corePackages\Core.Packages\Core.Persistance\bin\Debug\net7.0\Core.Persistance.deps.json
+C:\Users\burak.ipekci\Documents\GitHub\CQRS-Project\src\corePackages\Core.Packages\Core.Persistance\bin\Debug\net7.0\Core.Persistance.dll
+C:\Users\burak.ipekci\Documents\GitHub\CQRS-Project\src\corePackages\Core.Packages\Core.Persistance\bin\Debug\net7.0\Core.Persistance.pdb
+C:\Users\burak.ipekci\Documents\GitHub\CQRS-Project\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistance.csproj.AssemblyReference.cache
+C:\Users\burak.ipekci\Documents\GitHub\CQRS-Project\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak.ipekci\Documents\GitHub\CQRS-Project\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistance.AssemblyInfoInputs.cache
+C:\Users\burak.ipekci\Documents\GitHub\CQRS-Project\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistance.AssemblyInfo.cs
+C:\Users\burak.ipekci\Documents\GitHub\CQRS-Project\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\burak.ipekci\Documents\GitHub\CQRS-Project\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistance.dll
+C:\Users\burak.ipekci\Documents\GitHub\CQRS-Project\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\refint\Core.Persistance.dll
+C:\Users\burak.ipekci\Documents\GitHub\CQRS-Project\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\Core.Persistance.pdb
+C:\Users\burak.ipekci\Documents\GitHub\CQRS-Project\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net7.0\ref\Core.Persistance.dll
